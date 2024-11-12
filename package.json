@@ -1,0 +1,18 @@
+{
+  "name": "01-be-rock-paper-scissor-selinliu2023",
+  "version": "1.0.0",
+  "description": "## Ziel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev" : "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "type" : "module"
+}
